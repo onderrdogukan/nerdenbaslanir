@@ -2,3 +2,4 @@ siteye üye oluyoruz.
 günlük 150 kredimiz var.
 AI image generation tıklıyoruz.
 promt alanına istediğimizi yazıp resim oluşturmasını sağlıyoruz.
+terminale pip install opencv-python yazarak opencv kuruyoruz.numpy de aynı şekilde kurduk
