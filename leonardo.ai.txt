@@ -2,4 +2,6 @@ siteye üye oluyoruz.
 günlük 150 kredimiz var.
 AI image generation tıklıyoruz.
 promt alanına istediğimizi yazıp resim oluşturmasını sağlıyoruz.
-terminale pip install opencv-python yazarak opencv kuruyoruz.numpy de aynı şekilde kurduk
+terminale pip install opencv-python yazarak opencv kuruyoruz.numpy de aynı şekilde kurduk.
+gezegenlerin güneşe olan uzaklıklarını html ile alıp firefoxta f12 ile html olan yere yapıştırınca tablo olarak aldık.
+latex dilinde aynı şeyi yapıp onu da overleafte yeni proje olarak yapıştırınca tablo olarak yine aldık.
