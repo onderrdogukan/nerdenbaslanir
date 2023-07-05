@@ -10,3 +10,5 @@ dosya klonlamayı öğrendik pip clone (klonlamak istediğimiz dosya konumu)ile.
 numpy kütüphanesi ile arraylar oluşturma ve çeşitli işlemler yapmayı öğrendik.
 pandas kütüphanesi ile sözlük oluşturduk ve çeşitli işlemler yaptık.
 matplotlib kütüphanesi ile verilerimizden figür,grafik vs yapmayı öğrendik.verilerimizi görselleştirdik.
+özel IP=Aynı modem yönlendiricisine bağlı cihazlara farklı IP adresleri atanmasına özel IP adresleri denir.
+genel IP= İnternete bağlı cihazların birbirinden farklı tanımlanmalarına ise genel IP adresleri denir. bunları öğrendik
