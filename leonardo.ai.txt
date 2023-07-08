@@ -1,14 +1,23 @@
-siteye üye oluyoruz. 
-günlük 150 kredimiz var.
-AI image generation tıklıyoruz.
-promt alanına istediğimizi yazıp resim oluşturmasını sağlıyoruz.
-terminale pip install opencv-python yazarak opencv kuruyoruz.numpy de aynı şekilde kurduk.
-gezegenlerin güneşe olan uzaklıklarını html ile alıp firefoxta f12 ile html olan yere yapıştırınca tablo olarak aldık.
-latex dilinde aynı şeyi yapıp onu da overleafte yeni proje olarak yapıştırınca tablo olarak yine aldık.
-push,pull,commit ne işe yarar öğrendik.
-dosya klonlamayı öğrendik pip clone (klonlamak istediğimiz dosya konumu)ile.
-numpy kütüphanesi ile arraylar oluşturma ve çeşitli işlemler yapmayı öğrendik.
-pandas kütüphanesi ile sözlük oluşturduk ve çeşitli işlemler yaptık.
-matplotlib kütüphanesi ile verilerimizden figür,grafik vs yapmayı öğrendik.verilerimizi görselleştirdik.
-yerel IP=bilgisayarın ipsi sana özel.
-genel IP=internete bağlandığın ip.modeme bağlanan herkes için aynı. bunları öğrendik
+1-siteye üye oluyoruz. 
+2-günlük 150 kredimiz var.
+3-AI image generation tıklıyoruz.
+4-promt alanına istediğimizi yazıp resim oluşturmasını sağlıyoruz.
+5-terminale pip install opencv-python yazarak opencv kuruyoruz.numpy de aynı şekilde kurduk.
+6-gezegenlerin güneşe olan uzaklıklarını html ile alıp firefoxta f12 ile html olan yere yapıştırınca tablo olarak aldık.
+7-latex dilinde aynı şeyi yapıp onu da overleafte yeni proje olarak yapıştırınca tablo olarak yine aldık.
+8-push,pull,commit ne işe yarar öğrendik.
+9-dosya klonlamayı öğrendik pip clone (klonlamak istediğimiz dosya konumu)ile.
+10-numpy kütüphanesi ile arraylar oluşturma ve çeşitli işlemler yapmayı öğrendik.
+11-pandas kütüphanesi ile sözlük oluşturduk ve çeşitli işlemler yaptık.
+12-matplotlib kütüphanesi ile verilerimizden figür,grafik vs yapmayı öğrendik.verilerimizi görselleştirdik.
+13-yerel IP=bilgisayarın ipsi sana özel.
+14-genel IP=internete bağlandığın ip.modeme bağlanan herkes için aynı. bunları öğrendik
+15-resim ve video içe aktarmayı ve bunlarla alakalı bir takım işlemler yapmayı öğrendik
+16-kamera açarak video kaydetmeyi öğrendik
+17-eklediğimiz fotoğrafı yeniden boyutlandırmayı ve kırpmayı öğrendik.
+18-windows ve linux arasındaki farkları öğrendik.(Windows daha kapalı linux daha açık)
+19-virtualbox ile Linux ubuntu olan bir işletim sistemi kurmayı öğrendik.
+20-virtualbox ile windows işletim sistemi olan yeni bir işletim sistemi kurmayı öğrendik.
+21-sudonun ne işe yaradığını ve sudoyla işlem yapmayı öğrendik update etmeyi öğrendik.
+22-mySQL kurabildim mi kuramadım mı emin değilim,kurulum için baktığım sitede root şifresi oluşturmamızı isteyeceğini söyledi
+fakat benden istemedi.daha sonra ise baktığım komutları girerken bir şifre girmemi istedi oturum şifremi girdiğimde ise error verdi.
