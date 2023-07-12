@@ -19,5 +19,12 @@
 19-virtualbox ile Linux ubuntu olan bir işletim sistemi kurmayı öğrendik.
 20-virtualbox ile windows işletim sistemi olan yeni bir işletim sistemi kurmayı öğrendik.
 21-sudonun ne işe yaradığını ve sudoyla işlem yapmayı öğrendik update etmeyi öğrendik.
-22-mySQL kurabildim mi kuramadım mı emin değilim,kurulum için baktığım sitede root şifresi oluşturmamızı isteyeceğini söyledi
-fakat benden istemedi.daha sonra ise baktığım komutları girerken bir şifre girmemi istedi oturum şifremi girdiğimde ise error verdi.
+22-Bir resmin üzerine şekil,metin eklemeyi ve bazı işlemleri öğrendik.
+23-Resimleri yatay ve dikey şekilde birleştirmeyi öğrendik.
+24-DBeaver indirip oluşturduğumuz vbox makineye yerel IP adresiyle bağlandık.Gerekli izinleri ubuntu terminale sudo mysql -u root yazarak yönetici oluşturduk.CREATE USER 'vboxuser'@'192.168.146.117' IDENTIFIED BY 'changeme'; diyerek şifremizi ve kullanıcı adımızı belirledik en sonunda FLUSH PRIVILEGES; yazarak yetkileri veriyoruz oluşturduğumuz yöneticiye.
+25-Netmask:ağa kaç tane cihaz bağlayabileceğimizi gösterir 24(255.255.255.0) yazarsak 254 tane cihaz bağlayabiliriz.32 yazarsak 255.255.255.255 karşımıza çıkar tek cihaz bağlayabiliriz.
+26-DHCP:IP adreslerini cihazlara otomatik atar ve bize kolaylık sağlar.
+27-Overleafte bir roman taslağı buldum. chatgptye yapay zeka konulu bir kitap yazdırdım, leonardo.ai'den kitabım için uygun kapaklar buldum ve bunları birleştirip overleaft'e ekledim.
+28-GRANT ALL PRIVILEGES ON veritabani. TO 'kullanıcı_adı'@'192.168....'(Laptopun IP adresi);
+FLUSH PRIVILEGES; komutunu ubuntuda terminale girerek vboxer kullanıcısına "veritabani" için tüm yetkileri verdim.SHOW DATABASES; komutunu kullanarak databaseleri sıraladım ve "veritabani"diye bir veritabanının bulunmadığını gördüm.Daha sonrasında ise CREATE DATABASE veritabani;
+komutu ile "veritabani"isimli bir veritabanı oluşturdum ve dbeaverden veritabanına artık ulaşabiliyorum.'''BU KOMUTLARI UBUNTU TERMİNALİNDE EN BAŞTA "sudo mysql" YAZDIKTAN SONRA YAZIYORUZ'''
